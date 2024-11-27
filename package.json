@@ -17,6 +17,7 @@
   "homepage": "https://github.com/gumirus/gulpProject#readme",
   "description": "My gulpProject build",
   "devDependencies": {
-    "gulp": "^5.0.0"
+    "gulp": "^5.0.0",
+    "less": "^4.2.1"
   }
 }
